@@ -8,7 +8,7 @@ The documentation frontend for our SEPR project, 2019.
 
 > **NOTE**: *Links for assessment 1 are archived pdf copies of the hand in*
 
-[Requirements [1.1]](Assessment1/Req1.pdf)
+[Requirements [1.1]](Req1.pdf)
 
 [Method Selection and Planning Outline [1.2]](Assessment1/Plan1.pdf)
 
