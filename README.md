@@ -10,15 +10,15 @@ The documentation frontend for our SEPR project, 2019.
 
 [Requirements [1.1]](Req1.pdf)
 
-[Method Selection and Planning Outline [1.2]](Assessment1/Plan1.pdf)
+[Method Selection and Planning Outline [1.2]](Plan1.pdf)
 
-[Architecture [1.3]](Assessment1/Arch1.pdf)
+[Architecture [1.3]](Arch1.pdf)
 
-[Risk Assessment [1.4]](Assessment1/Risk1.pdf)
+[Risk Assessment [1.4]](Risk1.pdf)
 
 ### Images
 
-[Image Gallery](Assessment1/Images/Gallery.md)
+[Image Gallery](Gallery.md)
 
 ## Assessment 2
 
