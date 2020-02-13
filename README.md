@@ -58,7 +58,7 @@ The documentation frontend for our SEPR project, 2019.
 
 ### Images
 
-[Image Gallery](Gallery2.md)
+[Image Gallery](https://github.com/fpd500/sepr3/blob/master/Gallery2.md)
 
 ## Appendices [A]
 
