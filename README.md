@@ -10,11 +10,11 @@ The documentation frontend for our SEPR project, 2019.
 
 [Requirements [1.1]](Req1.pdf)
 
-[Method Selection and Planning Outline [1.2]](Plan1.pdf)
+[Method Selection and Planning Outline [1.2]](https://github.com/fpd500/sepr3/blob/master/Plan1.pdf)
 
-[Architecture [1.3]](Arch1.pdf)
+[Architecture [1.3]](https://github.com/fpd500/sepr3/blob/master/Arch1.pdf)
 
-[Risk Assessment [1.4]](Risk1.pdf)
+[Risk Assessment [1.4]](https://github.com/fpd500/sepr3/blob/master/Risk1.pdf)
 
 ### Images
 
