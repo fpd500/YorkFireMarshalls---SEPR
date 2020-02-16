@@ -1,4 +1,4 @@
-# sepr3
+
 # Berbils Team Project Documentation
 The documentation frontend for our SEPR project, 2019.
 
@@ -59,6 +59,19 @@ The documentation frontend for our SEPR project, 2019.
 ### Images
 
 [Image Gallery](https://github.com/fpd500/sepr3/blob/master/Gallery2.md)
+
+## Assessment 3
+[Game Executable [3.0]]
+
+[Change report [3.1]]
+
+[Implementation report [3.2]]
+
+### Images
+
+[image Gallery [3.3] 
+
+
 
 ## Appendices [A]
 
