@@ -85,7 +85,7 @@ The documentation frontend for our SEPR project, 2019/2020
 
 [Gantt Chart [3s.3]](Gantt%20chart.png)
 
-[UML diagram[3s.4]](https://github.com/fpd500/YorkFireMarshalls---SEPR/blob/master/uml.png)
+[UML diagrams[3s.4]](https://github.com/fpd500/YorkFireMarshalls---SEPR/blob/master/umlDigarams.md)
 
 [Testing Design and Evidence[3s.5]](https://github.com/fpd500/YorkFireMarshalls---SEPR/blob/master/Copy%20of%20Testing%20Design%20and%20Evidence%20of%20Testing.pdf)
 
