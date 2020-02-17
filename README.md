@@ -77,7 +77,7 @@ The documentation frontend for our SEPR project, 2019/2020
 
 ### Supplementary
 
-[User Manual (editable source) [3s.0]]
+[User Manual (editable source) [3s.0]](https://github.com/fpd500/YorkFireMarshalls---SEPR/blob/master/Updated%20user%20Manual%20(1).docx)
 
 [Code repository [3s.1]](https://github.com/spw520/YFMAss3)
 
