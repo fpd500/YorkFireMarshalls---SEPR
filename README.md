@@ -79,7 +79,7 @@ The documentation frontend for our SEPR project, 2019/2020
 
 [User Manual (editable source) [3s.0]]
 
-[Code repository [3s.1]]
+[Code repository [3s.1]](https://github.com/spw520/YFMAss3)
 
 [Tracability Matrix [3s.2]]
 
