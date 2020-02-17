@@ -1,6 +1,5 @@
-YorkFireMarshalls 
 # Berbils Team Project Documentation
-The documentation frontend for our SEPR project, 2019.
+The documentation frontend for our SEPR project, 2019/2020
 
 ## Assessment 1
 
@@ -61,11 +60,22 @@ The documentation frontend for our SEPR project, 2019.
 [Image Gallery](https://github.com/fpd500/sepr3/blob/master/Gallery2.md)
 
 ## Assessment 3
+
 [Game Executable [3.0]]
 
-[Change report [3.1]]
+[Test Plan [3.1]]
+
+[Testing results [3.3]]
+
+[Change report [3.2]]
 
 [Implementation report [3.2]]
+
+[Method Selection And PLanning [3.3]]
+
+[User Manual (PDF) [3.4]]
+
+[User Manual (editable source) [3.5]]
 
 ### Images
 
