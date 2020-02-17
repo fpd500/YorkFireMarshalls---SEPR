@@ -69,7 +69,7 @@ The documentation frontend for our SEPR project, 2019/2020
 
 [Implementation report [3.2]]
 
-[Method Selection And Planning [3.3]]
+[Method Selection And Planning [3.3]](https://github.com/fpd500/YorkFireMarshalls---SEPR/blob/master/Method%20Selection%20and%20Planning.pdf)
 
 [User Manual (PDF) [3.4]](https://github.com/fpd500/YorkFireMarshalls---SEPR/blob/master/Updated%20user%20Manual.pdf)
 
