@@ -85,6 +85,8 @@ The documentation frontend for our SEPR project, 2019/2020
 
 [Gantt Chart [3s.3]](Gantt%20chart.png)
 
+[UML diagram[3s.4]](https://github.com/fpd500/YorkFireMarshalls---SEPR/blob/master/uml.png)
+
 ## Appendices [A]
 
 [IEEE 29148 Standard [A.1]](https://drive.google.com/a/york.ac.uk/file/d/16D3j55bur3vuNJafH8qle9jKWbT4A6v8/view?usp=sharing)
