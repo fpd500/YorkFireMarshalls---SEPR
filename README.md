@@ -71,7 +71,7 @@ The documentation frontend for our SEPR project, 2019/2020
 
 [Method Selection And Planning [3.3]]
 
-[User Manual (PDF) [3.4]]
+[User Manual (PDF) [3.4]](https://github.com/fpd500/YorkFireMarshalls---SEPR/blob/master/Updated%20user%20Manual.pdf)
 
 [Code repository [3.]]
 
