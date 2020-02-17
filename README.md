@@ -81,7 +81,7 @@ The documentation frontend for our SEPR project, 2019/2020
 
 [Code repository [3s.1]](https://github.com/spw520/YFMAss3)
 
-[Tracability Matrix [3s.2]]
+[Tracability Matrix [3s.2]](https://github.com/fpd500/YorkFireMarshalls---SEPR/blob/master/Tracability%20Matrix%20-%20Sheet1.pdf)
 
 [Gantt Chart [3s.3]](Gantt%20chart.png)
 
