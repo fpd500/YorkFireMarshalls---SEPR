@@ -63,7 +63,7 @@ The documentation frontend for our SEPR project, 2019/2020
 
 [Game Executable [3.0]]
 
-[Testing [3.1]]
+[Testing [3.1]](https://github.com/fpd500/YorkFireMarshalls---SEPR/blob/master/Testing.pdf)
 
 [Change report [3.2]](https://github.com/fpd500/YorkFireMarshalls---SEPR/blob/master/Change3.pdf)
 
