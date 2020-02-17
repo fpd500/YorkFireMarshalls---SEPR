@@ -83,7 +83,7 @@ The documentation frontend for our SEPR project, 2019/2020
 
 [Tracability Matrix [3s.2]]
 
-[Gantt Chart [3s.3]]
+[Gantt Chart [3s.3]](https://github.com/fpd500/YorkFireMarshalls---SEPR/blob/master/Gantt%20chart.png)
 
 ## Appendices [A]
 
