@@ -63,27 +63,27 @@ The documentation frontend for our SEPR project, 2019/2020
 
 [Game Executable [3.0]]
 
-[Test Plan [3.1]]
-
-[Testing results [3.3]]
+[Testing [3.1]]
 
 [Change report [3.2]]
 
 [Implementation report [3.2]]
 
-[Method Selection And PLanning [3.3]]
+[Method Selection And Planning [3.3]]
 
 [User Manual (PDF) [3.4]]
 
-[User Manual (editable source) [3.5]]
-
 [Code repository [3.]]
 
-### Images
+### Supplementary
 
-[image Gallery [3.3] 
+[User Manual (editable source) [3s.0]]
 
+[Code repository [3s.1]]
 
+[Tracability Matrix [3s.2]]
+
+[Gantt Chart [3s.3]]
 
 ## Appendices [A]
 
