@@ -77,6 +77,8 @@ The documentation frontend for our SEPR project, 2019/2020
 
 [User Manual (editable source) [3.5]]
 
+[Code repository [3.]]
+
 ### Images
 
 [image Gallery [3.3] 
